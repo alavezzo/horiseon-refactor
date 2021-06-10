@@ -6,7 +6,7 @@ This refactor of Horiseon's landing page improved the site's accessibility and f
  - Semantics were updated to reflect the flow of the document 
  - Redundant code was eliminated and replaced by more efficient code 
 
-link to webpage: https://alavezzo.github.io/horiseon-refactor/index.html
+link to webpage: https://alavezzo.github.io/horiseon-refactor/
 
 screenshot of webpage 
 
